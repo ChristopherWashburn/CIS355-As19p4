@@ -6,4 +6,9 @@
 	{
 		echo "we are having fun times";
 	}
+
+	function SuperAwesome()
+	{
+		echo "this is SUper AWesome";
+	}
 ?>
