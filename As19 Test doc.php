@@ -14,4 +14,9 @@
 	{
 		echo "Bark!";
 	}
+		
+	function cow()
+	{
+		echo "Moo!";
+	}
 ?>
