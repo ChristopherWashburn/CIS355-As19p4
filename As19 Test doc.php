@@ -11,4 +11,9 @@
 	{
 		echo "this is SUper AWesome";
 	}
+
+	function cat()
+	{
+		echo "Meow!";
+	}
 ?>
