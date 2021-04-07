@@ -11,4 +11,9 @@
 	{
 		echo "this is SUper AWesome";
 	}
+
+	function dog()
+	{
+		echo "Bark!";
+	}
 ?>
