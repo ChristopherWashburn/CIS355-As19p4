@@ -15,5 +15,8 @@
 	function cat()
 	{
 		echo "Meow!";
+	function dog()
+	{
+		echo "Bark!";
 	}
 ?>
